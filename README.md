@@ -1,4 +1,4 @@
-# Mobile-Phone-Prediction
+# Mobile-Phone-Pricing
 import numpy as np
 import pandas as pd
 import os
